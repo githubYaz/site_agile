@@ -2032,6 +2032,11 @@ input, select, textarea {
 				-webkit-transition-delay: 0.15s;
 				-ms-transition-delay: 0.15s;
 				transition-delay: 0.15s;
+				transition: transform 0.3s ease-out;
+			}
+
+			.features section:nth-child(1) .icon:hover{
+				transform: rotate(90deg);
 			}
 
 			.features section:nth-child(2) .icon {
@@ -2039,6 +2044,11 @@ input, select, textarea {
 				-webkit-transition-delay: 0.3s;
 				-ms-transition-delay: 0.3s;
 				transition-delay: 0.3s;
+				transition: transform 0.3s ease-out;
+			}
+
+			.features section:nth-child(2) .icon:hover{
+				transform: rotate(90deg);
 			}
 
 			.features section:nth-child(3) .icon {
@@ -2046,6 +2056,11 @@ input, select, textarea {
 				-webkit-transition-delay: 0.45s;
 				-ms-transition-delay: 0.45s;
 				transition-delay: 0.45s;
+				transition: transform 0.3s ease-out;
+			}
+
+			.features section:nth-child(3) .icon:hover{
+				transform: rotate(90deg);
 			}
 
 			.features section:nth-child(4) .icon {
@@ -2053,6 +2068,11 @@ input, select, textarea {
 				-webkit-transition-delay: 0.6s;
 				-ms-transition-delay: 0.6s;
 				transition-delay: 0.6s;
+				transition: transform 0.3s ease-out;
+			}
+
+			.features section:nth-child(4) .icon:hover{
+				transform: rotate(90deg);
 			}
 
 			.features section:nth-child(5) .icon {
@@ -2060,6 +2080,11 @@ input, select, textarea {
 				-webkit-transition-delay: 0.75s;
 				-ms-transition-delay: 0.75s;
 				transition-delay: 0.75s;
+				transition: transform 0.3s ease-out;
+			}
+
+			.features section:nth-child(5) .icon:hover{
+				transform: rotate(90deg);
 			}
 
 			.features section:nth-child(6) .icon {
@@ -2067,6 +2092,11 @@ input, select, textarea {
 				-webkit-transition-delay: 0.9s;
 				-ms-transition-delay: 0.9s;
 				transition-delay: 0.9s;
+				transition: transform 0.3s ease-out;
+			}
+
+			.features section:nth-child(6) .icon:hover{
+				transform: rotate(90deg);
 			}
 
 			.features section:nth-child(7) .icon {
